@@ -30,6 +30,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//this is flight booking app
 public class application {
 
 	WebDriver driver;
